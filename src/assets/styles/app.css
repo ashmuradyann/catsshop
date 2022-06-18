@@ -1,0 +1,9 @@
+.app {
+    background: url("../images/Tile.png");
+    width: 100%;
+    height: 100vh;
+    padding: 0 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
