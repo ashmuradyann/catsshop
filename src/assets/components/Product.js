@@ -6,7 +6,7 @@ const Product = ({ data, id }) => {
   const [selected, setSelected] = useState(false)
 
   return (
-    <div key={id}>
+    <div className="product__wrapper" key={id}>
       <div onClick={(e) => e.addEventListener("onmouseleave", setSelected(!selected))}
            className={data.disabled 
             ? "product disabled" 

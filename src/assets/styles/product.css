@@ -11,6 +11,10 @@
     transition: all 0.5s;
 }
 
+.product__wrapper {
+    margin: 50px;
+}
+
 .standard {
     border: 5px solid #1698D9;
 }
