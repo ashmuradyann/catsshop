@@ -7,7 +7,7 @@ const Product = ({ data, id }) => {
 
   return (
     <div className="product__wrapper" key={id}>
-      <div onClick={(e) => e.addEventListener("onmouseleave", setSelected(!selected))}
+      <div onClick={() => setSelected(!selected)}
            className={data.disabled 
             ? "product disabled" 
             : selected
