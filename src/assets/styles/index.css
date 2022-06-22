@@ -29,4 +29,26 @@ body {
   .products {
     flex-wrap: wrap;
   }
+  
+  .container {
+    margin: 90px 0;
+  }
+}
+
+@media (max-width: 577px) {
+
+  .app {
+    padding: 0;
+  }
+  
+  .product {
+    width: 98%;
+    padding: 21px 10px 0 16px;
+    height: 370px;
+  }
+
+  .product__weight {
+    top: 75%;
+    left: 60%;
+  }
 }
