@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/catsshop/static/css/main.a7b28655.css",
+    "main.css": "/catsshop/static/css/main.87f33373.css",
     "main.js": "/catsshop/static/js/main.bd26ce41.js",
     "static/media/Cat.png": "/catsshop/static/media/Cat.5a59a8dfb85bee52c6a8.png",
     "static/media/Exo2.0.otf": "/catsshop/static/media/Exo2.0.51c257bfa8ec3e0cfb4b.otf",
     "static/media/Tile.png": "/catsshop/static/media/Tile.d6f07f8ed5f5049a96ce.png",
     "index.html": "/catsshop/index.html",
-    "main.a7b28655.css.map": "/catsshop/static/css/main.a7b28655.css.map",
+    "main.87f33373.css.map": "/catsshop/static/css/main.87f33373.css.map",
     "main.bd26ce41.js.map": "/catsshop/static/js/main.bd26ce41.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7b28655.css",
+    "static/css/main.87f33373.css",
     "static/js/main.bd26ce41.js"
   ]
 }
